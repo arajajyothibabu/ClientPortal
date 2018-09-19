@@ -108,7 +108,7 @@ $select_quote="select * from quote where client_id='$user'";
 
         <?php } ?>
 
-        <tfoot>
+        <tfoot style="display: table-row-group">
         <tr>
             <td colspan="2"></td>
             <td colspan="2">SUBTOTAL</td>
